@@ -1,0 +1,8 @@
+[12-Sep-2022 13:52:13 UTC] PHP Warning:  Undefined array key "host" in /home/dynincec/public_html/public/install/index.php on line 276
+[12-Sep-2022 13:52:13 UTC] PHP Warning:  Undefined array key "user" in /home/dynincec/public_html/public/install/index.php on line 277
+[12-Sep-2022 13:52:13 UTC] PHP Warning:  Undefined array key "pass" in /home/dynincec/public_html/public/install/index.php on line 278
+[12-Sep-2022 13:52:13 UTC] PHP Warning:  Undefined array key "name" in /home/dynincec/public_html/public/install/index.php on line 279
+[12-Sep-2022 13:52:13 UTC] PHP Warning:  Undefined array key "site_url" in /home/dynincec/public_html/public/install/index.php on line 280
+[12-Sep-2022 13:53:18 UTC] PHP Warning:  Undefined variable $APP_NAME in /home/dynincec/public_html/public/install/index.php on line 323
+[12-Sep-2022 13:53:18 UTC] PHP Warning:  Undefined variable $PUSHER_APP_KEY in /home/dynincec/public_html/public/install/index.php on line 323
+[12-Sep-2022 13:53:18 UTC] PHP Warning:  Undefined variable $PUSHER_APP_CLUSTER in /home/dynincec/public_html/public/install/index.php on line 323
